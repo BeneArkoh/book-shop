@@ -40,4 +40,6 @@ const createUser = (req, res) => {
 
 module.exports = router = {
   getAllUsers,
+  getUser,
+  createUser,
 };
